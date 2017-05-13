@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome
+DotNetCraft is the OpenSource project that allows developers to do their work easy without spending a lot of time to finding best solutions to their tasks. This project will contain different very useful tools such as rerunning method after exception or sending email using HTML templates.
 
-You can use the [editor on GitHub](https://github.com/DotNetCraft/DotNetCraft.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## General information
+In our collection you can find several interesting solutions that you can use in your work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [ConfigurationParser](https://github.com/DotNetCraft/ConfigurationParser)
+2. [DotNetCraft.FunctionManager](https://github.com/DotNetCraft/DotNetCraft.Extensions/wiki/DotNetCraft.FunctionManager)
+3. [DotNetCraft.SimpleEmailSender](https://github.com/DotNetCraft/DotNetCraft.Extensions/wiki/DotNetCraft.SimpleEmailSender)
+4. DotNetCraft.Common.NLogger
+5. NinjectDependencyInjectionResolver
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DotNetCraft/DotNetCraft.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Several new interesting features coming soon...
